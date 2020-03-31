@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/Bottom_N_home" />
+    <item
+        android:id="@+id/bBajar"
+        android:icon="@drawable/ic_shopping"
+        android:title="@string/Bottom_N_bajar" />
+    <item
+        android:id="@+id/bAndaje"
+        android:icon="@drawable/ic_explicit"
+        android:title="@string/Bottom_N_andaje" />
+    <item
+        android:id="@+id/bSevaDeneGhene"
+        android:icon="@drawable/ic_swap"
+        android:title="@string/Bottom_N_seva_dene_ghene" />
+    <item
+        android:id="@+id/bPar"
+        android:icon="@drawable/ic_person_add"
+        android:title="@string/Bottom_N_par" />
+</menu>

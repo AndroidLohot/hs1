@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">hs1</string>
+
+    <!-- This is bottom navigetion items names start -->
+    <string name="Bottom_N_home">घर</string>
+    <string name="Bottom_N_bajar">बाजार</string>
+    <string name="Bottom_N_andaje">अंदाज</string>
+    <string name="Bottom_N_seva_dene_ghene">सेवा देणे घेणे</string>
+    <string name="Bottom_N_par">पार</string>
+    <!-- This is bottom navigetion items names close -->
+
+    <!-- Bazar opetion elements names start -->
+    <string name="sale">विकत घेणे</string>
+    <string name="bay">विकत देणे</string>
+    <!-- Bazar opetion elements names close -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
